@@ -1,4 +1,4 @@
-name = "my-worker"          # 项目名称
+name = "supabaseWork"          # 项目名称
 type = "module"             # 设置为 "module" 以支持 ES 模块
 
 [env.production]
